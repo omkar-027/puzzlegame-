@@ -1,0 +1,11 @@
+#maindiv{width:800px;padding:25px;background-color:black;margin:auto;}
+#headdiv{width:750px;padding:25px;background-color:#c99191;height:50px;border-radius:20px}
+#innermaindiv{width:800px;background-color:yellow;height:650px;}
+#pointdiv{width:100px;background-color:purple;height:600px;padding:25px;display:inline-block;border-radius:100px}
+#pointmeandiv{width:600px;background-color:#840c0c;height:600px;padding:24px;display:inline-block;float:right;border-radius:100px;margin-right: 1}
+#Type{font-family:italic;font-size:67px;color:#260c42}
+#startbutton{padding:11px;background-color:green;font-size:20px;font-weight:bold;border-radius:20px}
+#startbutton2{padding:15px;background-color:green;padding:10px;font-size:20px;font-weight:bold;height: 46; width: 100;border-radius:20px}
+#button3{padding:15px;background-color:red;padding:10px;font-size:20px;font-weight:bold;height: 46; width: 100;border-radius:20px}
+.innerdiv{background-color:yellow; margin:20px;display:inline-block;color:black;font-family:cusrsive;font-size:15px;font-weight:bold;padding:10px;border-radius:5px}
+.cityname{color:white;font-family:cusrsive;font-size:30px;font-weight:bold;}
